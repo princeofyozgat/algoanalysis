@@ -12,6 +12,6 @@ I have compared the following sorting algorithms to see how they behave as the i
 
 # Files
 
-`project.c : ` Contains the algorithm functions and related input sizes that will finish sorting around ~2 seconds for each of the algorithms.
-`arrayGenerator.c : ` Generates an array filled with integer elements which take a value between 1 and 65536. (this is for RadixSort to work properly)
-`report.pdf : ` Shows the time taken by each algorithm for various input sizes.
+`project.c : ` Contains the algorithm functions and related input sizes that will finish sorting around ~2 seconds for each of the algorithms. <br />
+`arrayGenerator.c : ` Generates an array filled with integer elements which take a value between 1 and 65536. (this is for RadixSort to work properly) <br />
+`report.pdf : ` Shows the time taken by each algorithm for various input sizes. <br />
